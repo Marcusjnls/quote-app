@@ -1,27 +1,34 @@
-# NewQuotesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+# Quotes App
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Project Description
+User can add, vote and delete quote. For adding new quote there is form with required input fields. To vote user can vote liked quotes and unliked votes using buttons with thumbup and thumbdown.
 
-## Code scaffolding
+## Author 
+Marcus Jean- Louis (https://www.github.com/marcusjnls)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Setup/Installation Requirements
+1. Internet connection.
+2. Angular installation.
+3. Node Installation.
+4. Clone https://github.com/marcusjnls/quotes-app.git
+5. Go inside the folder that contains the project.
+6. Run `ng serve` for a dev server. Navigate to a browser and `http://localhost:4200/`.
+7. Otherwise check link deployed page: https://marcusjnls.github.io/quotes-app/
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Bugs/Contribution
+Currently no known bugs.
+To Contribute:
+1. Fork this repo(https://github.com/marcusjnls/quotes)
+2. Clone this repo to your machine(https://github.com/marcusjnls/quotes.git)
 
-## Running unit tests
+## Contact Information
+Marcus Jean-Louis
+Phone: +25472289499
+E-mail: marcusjnls@gmail.com
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# License and Copyright Information
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+This app is licensed under the terms of MIT and Copyright of Marcus Jean-Louis
