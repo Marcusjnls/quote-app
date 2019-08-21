@@ -1,2 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
-@import "~bootstrap/dist/css/bootstrap.css"
+body{
+    text-decoration-color: white;
+    background: url(assets/landingpage.jpg);
+    background-position: 0 0;
+    background-attachment: fixed;
+  }
+.jumbotron{
+  text-decoration-color: white;
+  background: url(assets/landingpage.jpg);
+  background-position: 0 0;
+  background-attachment: fixed;
+}
+/* h1{
+  font-family: 'Dancing Script', cursive;
+}
+.title-area{
+   background-color: grey;
+
+} */
